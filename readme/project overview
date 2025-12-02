@@ -45,3 +45,50 @@
 
 Open:
 
+
+---
+
+##  Technologies Used
+
+- **HTML5** (semantic and accessible)
+- **CSS3** (no frameworks)
+- **JavaScript** (vanilla ES6, no libraries)
+- **GitHub Version Control**
+
+---
+
+##  Development Notes
+
+This project was developed iteratively in GitHub to demonstrate:
+- consistent version control
+- meaningful commit messages
+- accessibility improvements over time
+- real testing feedback applied into code updates
+
+Example commit timeline:
+- setup basic structure  
+- add form + styling  
+- improve accessibility  
+- run WAVE test → fix errors  
+- add aria-live + keyboard refinements  
+- final tidy up  
+
+---
+
+##  License
+
+This project is released under the MIT License.  
+
+---
+
+##  Author
+
+Sara 
+Evaluating and updating a web page
+
+---
+
+##  Contact
+
+For queries about this repository, contact the author or submit an issue on GitHub.
+
