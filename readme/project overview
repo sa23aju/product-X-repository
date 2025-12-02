@@ -1,0 +1,47 @@
+
+---
+
+##  Project Objectives
+
+- Build a webpage that conforms to **WCAG 2.1 AA**.
+- Use only **custom HTML, CSS, and JavaScript**.
+- Evaluate accessibility using:
+  - **WAVE automated testing**
+  - **Heuristic Evaluation (Nielsen)**
+- Conduct improvements based on automated and manual evaluations.
+- Document the development over time using **GitHub version control**.
+
+---
+
+##  Features Implemented
+
+###  Accessibility
+- Semantic HTML structure (`<header>`, `<nav>`, `<main>`, `<footer>`).
+- Proper heading hierarchy.
+- Sufficient text contrast.
+- Skip-to-content link.
+- Form labels associated with inputs.
+- ARIA attributes (`aria-live`, `role="status"`).
+- Keyboard-accessible custom elements.
+- Accessible tables with `<th scope="col">`.
+
+###  Usability
+- Clear organisation and navigation.
+- Consistent layout.
+- Simple product configuration options.
+- Clear error handling on quantity input.
+
+---
+
+##  Included Reports (located in `/docs/`)
+- **Reporting_Issues_COMPLETED.docx**  
+- **Evaluation_Form_COMPLETED.docx**  
+- **Recommendations_Report.pdf** *(optional)*  
+- **github_link.txt**
+
+---
+
+##  How to View the Webpage
+
+Open:
+
